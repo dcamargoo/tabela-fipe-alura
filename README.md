@@ -1,6 +1,6 @@
 # Projeto Tabela FIPE
 
-Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o objetivo de consumir dados da Tabela FIPE por meio de uma API pública. A aplicação permite ao usuário analisar os preços de automóveis de forma mais amigável, com base em parâmetros como ano e modelo.
+Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o objetivo de consumir dados da Tabela FIPE por meio de uma API pública. A aplicação permite ao usuário analisar os preços de automóveis de forma mais amigável via terminal, com base em parâmetros como ano e modelo.
 
 ---
 
@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 ---
 
 ### Tecnologias:
-- Java 21
+- **Java 21**
 
 ---
 
