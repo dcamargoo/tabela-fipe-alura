@@ -4,6 +4,31 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 
 ---
 
+### Detalhes do Projeto
+- Consumo de API pública
+- Desserialização de dados JSON com Jackson
+- Manipulação e filtragem de dados
+- Criação de uma interface amigável via terminal
+
+---
+
+### Tecnologias:
+- **Java 21**
+
+---
+
+### API Utilizada
+[https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/?ref=dr-pa&utm_medium=public-apis-website)
+
+---
+
+### Como Executar
+
+- Adicionar a dependência do Jackson ao projeto
+- Executar a classe principal pela IDE
+
+---
+
 ### Imagens da Execução do Programa
 
 #### 1. Tipo de Veículo (há 3 tipos de veículos possíveis para pesquisar no sistema: carro, moto e caminhão):
@@ -23,22 +48,3 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 
 #### 4. Ano do Veículo:
 <img width="488" height="370" alt="image" src="https://github.com/user-attachments/assets/bddabe25-ec29-424f-9998-8c0958831b7e" />
-
-
----
-
-### Detalhes do Projeto
-- Consumo de API pública
-- Desserialização de dados JSON com Jackson
-- Manipulação e filtragem de dados
-- Criação de uma interface amigável via terminal
-
----
-
-### Tecnologias:
-- **Java 21**
-
----
-
-### API Utilizada
-[https://deividfortuna.github.io/fipe/](https://deividfortuna.github.io/fipe/?ref=dr-pa&utm_medium=public-apis-website)
