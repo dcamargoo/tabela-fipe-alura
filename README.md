@@ -12,6 +12,13 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 
 ---
 
+### Boas Práticas e Padrões Aplicados
+
+- **Uso de Generics:** Criação de interface e classe de conversão genéricas para desserializar qualquer tipo de JSON com Jackson.
+- **Java Streams:** Uso de `.filter()` e `.map()` para processar, filtrar e exibir os dados de preços de forma limpa.
+
+---
+
 ### Tecnologias:
 - **Java 21**
 
