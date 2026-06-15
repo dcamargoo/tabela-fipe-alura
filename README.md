@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 ---
 
 ## Tecnologias Utilizadas:
-- **Java**
+- **Java 21**
 - **Jackson** (biblioteca para serialização e desserialização de JSON)
 
 ---
