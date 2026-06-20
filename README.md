@@ -26,8 +26,10 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 
 ## Como Executar
 
-1. Adicionar a dependência do Jackson ao projeto
-2. Executar a classe principal pela IDE
+1. Certifique-se de ter o **Java 21+** instalado.
+2. Clone o repositório.
+3. Adicionar a dependência do Jackson ao projeto.
+4. Executar a classe principal pela IDE a escolha.
 
 ---
 
