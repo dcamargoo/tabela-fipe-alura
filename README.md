@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 ## Objetivos
 
 - Consumir uma API REST externa utilizando as classes nativas do Java (`HttpClient`, `HttpRequest` e `HttpResponse`).
-- Realizar a conversão de JSON para objetos e listas Java (DTOs) utilizando a biblioteca Jackson.
+- Realizar a conversão de JSON para objetos e listas Java (DTOs) utilizando a biblioteca Jackson, sem o uso de um gerenciador de dependências.
 - Implementar uma interface de terminal interativa com múltiplos níveis de filtros (Tipo -> Marca -> Modelo -> Ano).
 - Aplicar o conceito de Generics no Java para criar um conversor de dados reutilizável.
 
